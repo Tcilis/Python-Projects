@@ -1,0 +1,45 @@
+Programming Team
+Project Εαρινό 2023
+
+Σενάριο
+
+Ιδέα: Θα υλοποιήσουμε μια εφαρμογή με GUI που θα παίρνει δεδομένα από ένα Raspberry Pi Pico στο οποίο θα έχουμε συνδέσει κάποιους αισθητήρες.
+Ερωτήματα
+
+Πως επικοινωνεί το Raspberry με την Εφαρμογή;
+    Serial Com (USB)
+Τι δεδομένα θα παίρνω;
+    Τι εξοπλισμό έχω;
+        Αρχικά αισθητήρες:
+            Αισθητήρες  Θερμοκρασιας DHT11 ή  LM35) και έχουμε ακόμα:
+            https://grobotronics.com/ultrasonic-sensor-sr04.html
+            https://grobotronics.com/pir-sensor-module.html
+            https://grobotronics.com/flex-sensor-2.2.html
+            https://grobotronics.com/electret-microphone-amplifier-max9814-with-auto-gain-control.html
+            https://grobotronics.com/mfrc-522-nfc-rfid-controller-breakout-board.html
+            Νομίζω https://grobotronics.com/waveshare-uv-sensor.html
+            https://grobotronics.com/waveshare-flame-sensor.html
+            https://grobotronics.com/waveshare-mq-2-gas-sensor-module.html
+            https://grobotronics.com/waveshare-mq-3-gas-sensor-module.html
+            https://grobotronics.com/waveshare-mq-5-gas-sensor-module.html
+            https://grobotronics.com/waveshare-mq-7-gas-sensor-module.html
+            https://grobotronics.com/waveshare-mq-135-gas-sensor-module.html
+            https://grobotronics.com/adafruit-ccs811-air-quality-sensor-breakout-voc-and-eco2.html 
+            Έχουμε μερικά https://grobotronics.com/robotics/lcd-display/character-lcd/
+            Όπως επίσης και https://grobotronics.com/robotics/breakout-boards/relay-modules/
+            Επίσης έχουμε μερικά https://grobotronics.com/mechanics-and-wheels/servo/servo-el/
+            https://grobotronics.com/mechanics-and-wheels/servo/dc-motors/
+            και μπορεί και https://grobotronics.com/mechanics-and-wheels/servo/stepper-motors/
+
+Τι θα τα κάνω αυτά τα δεδομένα;
+    Θα τα αποθηκεύω;
+    Θα τα προβάλω;
+    Θα τα λούσω;
+
+Πως θα το κάνω όλο αυτό;
+
+Tasklist
+    Δείτε τι θέλετε να κάνετε
+        Δείτε τι εξοπλισμό έχουμε
+        Ψάξτε Projects με λέξεις κλειδιά Micro Python, Raspberry Pi, IoT, DIY etc 
+    Φτιάξτε ένα κοινό GitHub Repo και συντονιστείτε! 
